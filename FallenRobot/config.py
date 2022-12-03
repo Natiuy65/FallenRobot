@@ -47,7 +47,7 @@ class Config(object):
     SPAMMERS = None
     ALLOW_CHATS = True
     START_IMG = "https://te.legra.ph/file/f7858c819706c918b520e.jpg"
-    HEROKU_API_KEY = None
+    HEROKU_API_KEY = 21f71571-10f2-4925-900f-9c9e3dce21be
     HEROKU_APP_NAME = None
     TEMP_DOWNLOAD_DIRECTORY = "./"
     ARQ_API_KEY = "VYLDJI-XGALDI-OUYEBG-JPPSPU-ARQ"

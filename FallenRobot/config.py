@@ -29,7 +29,7 @@ class Config(object):
     TIGERS = 5448287981
     WOLVES = 5448287981
 
-    DONATION_LINK = "@accounttool"
+    DONATION_LINK = "https://t.me/accounttool"
     CERT_PATH = None
     PORT = 5000
     DEL_CMDS = True
